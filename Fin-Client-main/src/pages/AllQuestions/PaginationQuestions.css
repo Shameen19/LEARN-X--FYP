@@ -1,0 +1,14 @@
+.conty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.lefty,
+.centry,
+.righty {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+/* @font-face {
+  font-family: "Open Sans";
+  src: url("../../../../assets/fonts/OpenSans-Normal.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+} */
+
+.sidee {
+  -webkit-box-shadow: 8px -3px 8px -7px rgba(0, 0, 0, 0.27);
+  box-shadow: 8px -3px 8px -7px rgba(0, 0, 0, 0.27);
+}

@@ -1,0 +1,20 @@
+.datatable {
+  height: 600px;
+  padding: 20px;
+
+  .cellwithstatus {
+    padding: 5px;
+    font-size: 80px;
+
+    &.active {
+      color: green;
+      background-color: rgba(0, 128, 0, 0.151);
+    }
+  }
+
+  .cellaction {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

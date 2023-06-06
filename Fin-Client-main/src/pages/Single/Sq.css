@@ -1,0 +1,11 @@
+.jodit-status-bar-link {
+  visibility: hidden;
+}
+
+.qxqy {
+  /* background-color: #ff9d00;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%23000' stroke-width='100' stroke-opacity='0' %3E%3Ccircle fill='%23ff9d00' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%23fb8d18' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%23f57d25' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%23ed6e2e' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%23e36035' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%23d8533b' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%23cc473f' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%23be3c43' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%23b03245' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%23a02946' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%23902246' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%23801c44' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%236f1842' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%235e143e' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%234e1039' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%233e0d33' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%232e0a2c' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%23210424' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E"); */
+  background-attachment: fixed;
+  background-size: cover;
+  margin-left: "20px";
+}

@@ -1,0 +1,90 @@
+.mentor-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.mentor-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.mentor-icon {
+  margin-right: 8px;
+}
+
+.mentor-name {
+  color: black;
+}
+
+.mentor-skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 10px;
+}
+
+.skill {
+  padding: 4px;
+  border-radius: 4px;
+  color: white;
+  font-size: 12px;
+}
+
+.mentor-avatar {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  animation: scaleIn 0.5s ease-in-out;
+}
+
+.mentor-button {
+  margin-top: auto;
+  animation: slideIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.8);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.search-input {
+  margin-bottom: 20px;
+}
+
+.search-input input {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.search-input input:hover,
+.search-input input:focus {
+  background-color: #eef1f6;
+}

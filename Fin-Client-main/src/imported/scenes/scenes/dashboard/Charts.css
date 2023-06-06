@@ -1,0 +1,12 @@
+.Chart {
+  margin-top: 50px;
+  padding: 10px;
+  height: 400px;
+  width: 800px;
+  display: flex;
+}
+
+.Charts {
+  width: auto;
+  height: auto;
+}
